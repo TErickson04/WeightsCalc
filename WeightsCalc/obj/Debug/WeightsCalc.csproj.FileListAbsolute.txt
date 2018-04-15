@@ -1,0 +1,13 @@
+c:\users\eritral\documents\visual studio 2015\Projects\WeightsCalc\WeightsCalc\bin\Debug\WeightsCalc.exe.config
+c:\users\eritral\documents\visual studio 2015\Projects\WeightsCalc\WeightsCalc\bin\Debug\WeightsCalc.exe
+c:\users\eritral\documents\visual studio 2015\Projects\WeightsCalc\WeightsCalc\bin\Debug\WeightsCalc.pdb
+c:\users\eritral\documents\visual studio 2015\Projects\WeightsCalc\WeightsCalc\obj\Debug\WeightsCalc.csprojResolveAssemblyReference.cache
+c:\users\eritral\documents\visual studio 2015\Projects\WeightsCalc\WeightsCalc\obj\Debug\WeightsCalc.exe
+c:\users\eritral\documents\visual studio 2015\Projects\WeightsCalc\WeightsCalc\obj\Debug\WeightsCalc.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\WeightsCalc\WeightsCalc\bin\Debug\WeightsCalc.exe.config
+C:\Users\eritral\Desktop\1.5 Years\Projects\WeightsCalc\WeightsCalc\bin\Debug\WeightsCalc.exe
+C:\Users\eritral\Desktop\1.5 Years\Projects\WeightsCalc\WeightsCalc\bin\Debug\WeightsCalc.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\WeightsCalc\WeightsCalc\obj\Debug\WeightsCalc.csprojResolveAssemblyReference.cache
+C:\Users\eritral\Desktop\1.5 Years\Projects\WeightsCalc\WeightsCalc\obj\Debug\WeightsCalc.csproj.CoreCompileInputs.cache
+C:\Users\eritral\Desktop\1.5 Years\Projects\WeightsCalc\WeightsCalc\obj\Debug\WeightsCalc.exe
+C:\Users\eritral\Desktop\1.5 Years\Projects\WeightsCalc\WeightsCalc\obj\Debug\WeightsCalc.pdb
